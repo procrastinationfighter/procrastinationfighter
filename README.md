@@ -12,5 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![visitors](https://komarev.com/ghpvc/?username=procrastinationfighter)
 ### Have a good day and a tasty coffee!
+
+![visitors](https://komarev.com/ghpvc/?username=procrastinationfighter)
