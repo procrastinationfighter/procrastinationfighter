@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **procrastinationfighter/procrastinationfighter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,3 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![visitors](https://komarev.com/ghpvc/?username=procrastinationfighter)
+# Have a good day and a tasty coffee!
